@@ -1,0 +1,5 @@
+accessWidener v2 named
+
+accessible field net/minecraft/Minecraft renderEngine Lnet/minecraft/TextureManager;
+accessible method net/minecraft/EnumDirection getFace() Lnet/minecraft/EnumFace;
+accessible field net/minecraft/Block unlocalizedName Ljava/lang/String;
